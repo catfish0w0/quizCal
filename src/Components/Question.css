@@ -1,0 +1,15 @@
+.question {
+    margin-bottom: 14px;
+    color: #293264;
+    max-width: 1200px;
+}
+
+.question h1 {
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+hr {
+    margin-top: 15px;
+    border: 1px solid #DBDEF0;
+}

@@ -1,0 +1,25 @@
+.start-page {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-page h1{
+    margin-bottom: 2.5rem;
+}
+
+.start-page p{
+    margin-bottom: 2rem;
+}
+
+.start-page button {
+    width: 12.5rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #4D5B9E;
+    color: white;
+    cursor: pointer;
+}

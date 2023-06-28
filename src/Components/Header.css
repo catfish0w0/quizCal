@@ -1,0 +1,9 @@
+header {
+    height: 3rem;
+    background-color:bisque;
+    padding: 0.3rem;
+}
+
+header h1 {
+    background-color:bisque;
+}
